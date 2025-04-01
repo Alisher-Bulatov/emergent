@@ -1,0 +1,2 @@
+# Synthesis Recipe Template
+
