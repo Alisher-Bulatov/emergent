@@ -34,26 +34,9 @@ This layered approach to player agency encourages introspection and mirrors the 
 - `lore/` – Narrative elements enriching the game's symbolic depth.
 - `systems/` – Core mechanics governing interaction, progression, and transformation.
 
-## Getting Started
-
-To delve into *Emergent*'s development or contribute:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Alisher-Bulatov/emergent.git
-   ```
-
-2. **Explore the Documentation** – Begin with `design_vision/` to understand the game's philosophical and mechanical foundations.
-
-3. **Engage with the Community** – Share insights, feedback, and contributions through issues and discussions.
-
-## Contributing
-
-*Emergent* thrives on collaborative introspection. Whether you're drawn to coding, narrative design, or philosophical discourse, your contributions are welcome. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ## License
 
-This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
+Currently none.
 
 ---
 
