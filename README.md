@@ -32,7 +32,7 @@ This layered approach to player agency encourages introspection and mirrors the 
 - `fragments/` – Modular memory pieces for dynamic assembly.
 - `intrusions/` – Disruptive elements challenging the CoreSelf's stability.
 - `lore/` – Narrative elements enriching the game's symbolic depth.
-- `systems/` – Core mechanics governing interaction, progression, and transformation.
+- `mechanics/` – Core mechanics governing interaction, progression, and transformation.
 
 ## License
 
