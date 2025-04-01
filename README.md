@@ -1,61 +1,60 @@
-# 🌌 Emergent
+# Emergent
 
-**Emergent** is a symbolic, introspective roguelike built in Unity that explores evolving consciousness through interactive memory fragments, surreal terrain, and emotional clarity. This project is a love letter to personal growth, philosophical exploration, and procedural storytelling.
+*Emergent* is a symbolic, introspective roguelike built in Unity that explores evolving consciousness through interactive memory fragments, surreal terrain, and emotional clarity. This project is a love letter to personal growth, philosophical exploration, and procedural storytelling.
 
-## 🧠 Core Concept
+## Core Concept
 
 At the heart of Emergent lies the **CoreSelf**, a pulsating, sentient presence navigating a boundless mindscape. The player interacts with symbolic **Mental Objects**, **Intrusions**, and **Fragments**—each representing facets of memory, emotion, and identity.
 
 Gameplay revolves around:
 
-- 🌱 **Growth of Agency**: Movement and skills are earned, not given.
-- 🧩 **Symbolic Interaction**: Each choice is a reflection of thought—resurface, reassess, let go.
-- 💡 **Emotional Feedback**: The world reacts with light, sound, and distortion.
-- 🔁 **Cycle-Based Evolution**: Life is lived in loops; each death, a transformation.
+- **Growth of Agency** – Movement and skills are earned, not given.
+- **Symbolic Interaction** – Each choice is a reflection of thought—resurface, suppress, or transform.
+- **Procedural Introspection** – Dynamic environments mirror the player's internal state.
 
-## 🔧 Current Status
+## Player Agency
 
-This repository currently contains:
+In *Emergent*, the player embodies a formless consciousness—an unseen presence drifting within the surreal mindscape. The **CoreSelf** serves as a symbolic entity within this world, representing the evolving state of identity, emotion, and insight. This distinction is critical to the philosophical and emotional framing of the game.
 
-- Design documentation
-- Lore fragments
-- Pseudocode structures
-- Playtest notes and system drafts
+### Forms of Agency
 
-The full Unity implementation is **in progress**. Code, shaders, and gameplay systems will be added as development evolves.
+1. **Gaze and Observation** – Initially, interaction is limited to observing fragments, studying connections, and understanding the environment through focused awareness.
 
-## 🗂️ Folder Overview
+2. **Will Projection** – As the game progresses, the player gains the ability to influence the world by projecting intent, allowing for manipulation of objects and navigation through the mindscape.
 
-| Folder       | Purpose                                 |
-|--------------|------------------------------------------|
-| `docs/`      | Design and vision documentation          |
-| `fragments/` | Memory fragment concepts and data        |
-| `intrusions/`| Intrusion behavior and symbolic threats  |
-| `lore/`      | World-building and poetic content        |
-| `pseudocode/`| Gameplay logic, interactions, and systems|
-| `skills/`    | Mental abilities and player actions      |
-| `systems/`   | Mechanics, logic loops, and modifiers    |
+3. **Resonance and Synthesis** – Deeper into the journey, the player can merge fragments, resolve intrusions, and reshape the mental landscape, facilitating profound transformations within the CoreSelf.
 
-## 🛤️ Roadmap
+This layered approach to player agency encourages introspection and mirrors the process of personal growth and self-discovery.
 
-- [x] Modular design documentation
-- [x] Initial GitHub structure
-- [ ] Core Unity implementation (URP, Shader Graph, CoreSelf prefab)
-- [ ] Procedural Fragment & Intrusion system
-- [ ] Branch-based movement and skill acquisition
-- [ ] Final cycle logic and aging mechanic
+## Project Structure
 
-## 🤝 Contribution
+- `design_vision/` – Conceptual frameworks and thematic explorations.
+- `fragments/` – Modular memory pieces for dynamic assembly.
+- `intrusions/` – Disruptive elements challenging the CoreSelf's stability.
+- `lore/` – Narrative elements enriching the game's symbolic depth.
+- `systems/` – Core mechanics governing interaction, progression, and transformation.
 
-This is a solo project but open to philosophical allies, creative coders, and symbolic thinkers. If something resonates deeply with you, reach out.
+## Getting Started
 
-## 📜 License
+To delve into *Emergent*'s development or contribute:
 
-To be determined. All concepts and writing are original unless otherwise noted.
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Alisher-Bulatov/emergent.git
+   ```
+
+2. **Explore the Documentation** – Begin with `design_vision/` to understand the game's philosophical and mechanical foundations.
+
+3. **Engage with the Community** – Share insights, feedback, and contributions through issues and discussions.
+
+## Contributing
+
+*Emergent* thrives on collaborative introspection. Whether you're drawn to coding, narrative design, or philosophical discourse, your contributions are welcome. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## License
+
+This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
 
 ---
 
-> “You are not the thoughts you gather, but the light that shapes them.”
-
-— *Emergent*
-
+*Embark on a journey through the mind's labyrinth, confront the echoes of memory, and witness the emergence of self.*
