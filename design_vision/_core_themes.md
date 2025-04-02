@@ -62,6 +62,59 @@ Full logic and outcomes in [Archetype Index](Archetype%20Index%201c83d0fada26811
 
 ---
 
+## 🧠 Cognitive Systems and Inner Architecture
+
+At the heart of *Emergent* lies a layered mental architecture. The player’s internal landscape is not merely a setting—it’s a system of thought, identity, memory, and intention. Every mechanic is rooted in the metaphor of **conscious experience** and **cognitive agency**.
+
+### 1. Cognitive Abilities
+Active, intentional verbs of the mind. These are how players interact with their own psyche—shaping, moving, or understanding Mental Objects.
+
+- **Attune** – Synchronize with a mental object’s emotional frequency.  
+- **Analyze** – Break down symbolic properties.  
+- **Let Go** – Release attachment, making space.  
+- **Synthesize** – Fuse multiple fragments into insight.
+
+These abilities evolve as the player’s understanding deepens.
+
+### 2. Protocols
+Subconscious patterns and learned mental routines. Always active once internalized.
+
+- **Emotional Buffering** – Shields the CoreSelf from shock.  
+- **Inner Firewall** – Prevents immediate impact from Intrusions.  
+- **Pattern Anticipation** – Subtle future prediction.
+
+Protocols may stack or conflict based on emotional load and player behavior.
+
+### 3. Threads
+Intentional or emergent connections between mental objects—symbolizing thematic resonance, tension, or narrative coherence.
+
+- **Thread of Forgiveness** – Reduces corruption between painful memories.  
+- **Thread of Longing** – Maintains connection to distant or lost aspects.  
+- **Thread of Duality** – Locks paradoxes for potential synthesis.
+
+Threads can evolve, break, or trigger transformation depending on choices.
+
+### 4. Cortex
+The symbolic UI and interface of consciousness.
+
+- Visualized as a neural web, mandala, or dream-map.
+- Used to view, organize, and link the player’s internal structure.
+- Evolves with progression and reflects the player's current mental state.
+
+---
+
+### 🌱 Cognitive Design Philosophy
+
+- **Mental Objects** = What the mind holds  
+- **Cognitive Abilities** = What the mind does  
+- **Protocols** = What the mind defaults to  
+- **Threads** = Why meaning persists  
+- **Cortex** = Where the self becomes visible
+
+These systems represent not just gameplay—but the shape of thought and transformation.
+
+---
+
 ## ♻️ Cycle and Endgame
 
 - Game unfolds across repeating **Cycles**.
