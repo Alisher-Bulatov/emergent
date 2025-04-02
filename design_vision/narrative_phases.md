@@ -81,4 +81,3 @@ Each loop spirals deeper—toward **clarity**, **fragmentation**, or **integrati
 
 ---
 
-For system logic and gameplay structure, see the *Design Bible*.
