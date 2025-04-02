@@ -22,7 +22,7 @@ This distinction is critical to the philosophical and emotional framing of the g
 - A visual and symbolic representation of mental structure.
 - Anchored in the world.
 - Affected by actions, interactions, and trauma.
-- Not directly controlled, but influenced.
+- Not directly controlled, but influenced—agency emerges as the player's intentions are gradually mirrored in the CoreSelf's evolution.
 
 ---
 
