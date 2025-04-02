@@ -6,78 +6,79 @@ The player begins as a formless **consciousness**—capable only of looking and 
 
 ---
 
-## 🌑 Phase 1 – The Opening (Stillness and Awakening)
+## 🌑 Phase 1 – Emergence (Stillness and Synthesis)
 
-- Player exists as pure gaze—no form, no movement
-- Player can interact with nearby mental objects through gaze-based focus
-- A mysterious object appears: the "First Thought"
-- Focusing gaze on it awakens the **CoreSelf**
-- Initial fragments may be discovered and interacted with through proximity
-
----
-
-## 🌱 Phase 2 – Necessity and Extension
-
-- The CoreSelf senses something just beyond the player's gaze
-- A glowing branch grows toward the new fragment—symbolizing a response to curiosity
-- Player is gently nudged onto this branch, learning directional movement as a form of **intent-following**
-- This phase emphasizes the link between curiosity, attention, and the growth of agency
+- Player exists as pure gaze—no form, no movement.
+- A few *mental objects* drift near the CoreSelf—remnants of forgotten memory or dormant intention.
+- Gaze-based interaction with these objects awakens emotional resonances (e.g., Calm, Fear, Wonder).
+- When a pattern emerges, **Synthesis** is triggered: fragments combine, forming the first **Module**.
+- This Module unlocks the player's first **Cognitive Ability** (e.g., “Attune” or “Anchor”).
+- The CoreSelf visually transforms (e.g., pulses with light, sprouts symbols, or begins to glow).
 
 ---
 
-## 💡 Phase 3 – Exploration and First Fragments
+## 🌱 Phase 2 – Pull of the Unknown (Necessity and Extension)
 
-- Branch-based movement continues, enabling exploration of nearby zones
-- More fragments are discovered and absorbed (e.g., “Calm Memory”)
-- Emotional state HUD is revealed (Clarity, Stress)
-- Player begins to notice how attention and decisions shape the mental world
-- First **choice point** emerges via diverging branches
+- After Synthesis, the CoreSelf senses something beyond its range—a flicker of curiosity or imbalance.
+- It extends a glowing **branch** toward the unknown—symbolizing inner growth responding to outer mystery.
+- The player's consciousness is gently **pushed** onto this branch, learning to move in one direction.
+- This phase introduces **intent-following** movement as a response to inner/emotional pull.
 
 ---
 
-## 🌪 Phase 4 – Insight (Synthesis and Growth)
+## 💡 Phase 3 – Exploration and Divergence
 
-- Player unlocks **synthesis** inside the Core Sanctum
-- Combining fragments forms powerful **Modules** that persist across cycles
-- Emotional resonance becomes core to puzzle-solving and exploration
-- The CoreSelf visually changes with the first synthesis event (e.g., glowing core, orbiting symbols)
+- Branch-based traversal continues, expanding into a small network of paths.
+- The player discovers more **fragments** (e.g., “Calm Memory”, “Echo of Doubt”).
+- The **Emotional State HUD** (Clarity, Stress) is introduced.
+- Attention begins shaping the world—zones shift subtly with mood and memory alignment.
+- First **choice point** emerges—branches diverge, each symbolically charged.
+
+---
+
+## 🌪 Phase 4 – Insight (Growth and Deeper Synthesis)
+
+- Core Sanctum becomes accessible.
+- More complex **Synthesis** is possible—combining multiple fragments for layered Modules.
+- Modules now affect gameplay systems (e.g., memory retention, defense against Intrusions).
+- The CoreSelf evolves visually and functionally based on synthesis history.
 
 ---
 
 ## 🌪️ Phase 5 – Turmoil (Intrusions Begin)
 
-- Emotional tension rises: **Intrusions** are introduced
-- Triggered by imbalance (high Stress or fragmented clarity)
-- Reality bends—zones shift, CoreSelf is visually disturbed (e.g., red cracks, distortions)
-- Player must navigate symbolic threats using learned tools and awareness
+- Emotional instability increases—**Intrusions** are triggered by stress or imbalance.
+- The world becomes volatile: distortions, haunting echoes, collapsing structures.
+- The CoreSelf reacts physically (cracks, spasms, or flickers).
+- Player must rely on cognitive abilities and fragments to navigate symbolic threats.
 
 ---
 
-## 🌌 Phase 6 – Expansive Mind (Open Exploration & Archetype)
+## 🌌 Phase 6 – Expansive Mind (Projection & Archetypes)
 
-- Player unlocks **mental projection**, detaching movement from fixed branches
-- This cognitive skill allows free navigation and interaction at greater distances
-- **Archetypes** emerge based on player's behavior patterns and synthesis history
-- World becomes stranger, more symbolic, demanding deeper insight
+- Player unlocks **mental projection**—detaching movement from fixed branches.
+- This new form of agency allows for free navigation, deeper interaction, and discovery.
+- **Archetypes** emerge from accumulated actions, fragment combinations, and Module choices.
+- The world reflects the player’s internal structure—dream logic dominates.
 
 ---
 
 ## 🔚 Phase 7 – Finale (Climax and Transition)
 
-- Final phase presents a symbolic confrontation or intricate reflective puzzle
-- All systems converge: projection, synthesis, emotional balance, fragment memory
-- CoreSelf may emit a pulse that triggers transition to:
-  - A **new Cycle** (altered zones, preserved insights)
-  - The **Final Cycle**, ending the player's journey with transcendence or collapse
+- Final phase presents a reflective confrontation or symbolic test.
+- All systems converge: projection, synthesis, emotional balance, memory.
+- CoreSelf emits a final **pulse**, leading to:
+  - A **new Cycle** with preserved insights
+  - The **Final Cycle**—a singular ending shaped by clarity, collapse, or transcendence
 
 ---
 
 ## ♻️ Post-Phase Loop
 
-After Phase 7, players begin a new Cycle with reshaped zones, retained Archetypes, and evolved cognitive abilities. 
+After Phase 7, players begin a new Cycle with reshaped zones, retained Archetypes, and evolved cognitive abilities.
 
-The cycle spirals deeper each time—into **clarity**, **fragmentation**, or **integration**.
+Each loop spirals deeper—toward **clarity**, **fragmentation**, or **integration**.
 
 ---
 
-For detailed system interactions (movement, synthesis, intrusions, Archetypes), see the *Design Bible*.
+For system logic and gameplay structure, see the *Design Bible*.
